@@ -123,7 +123,7 @@
     z-index: 1;
     display: flex;
     justify-content: end;
-    align-items: start;
+    align-items: center;
     gap: 78px;
     padding: 0 50px 50px 50px;
 
